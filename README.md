@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 - 📝 I regularly write articles on Linkdin
-- 💬 Ask me about ** SEO, HTML, CSS, JS, Bootstrap, React, , MySQL , Tailwind ** etc
+- 💬 Ask me about  SEO, HTML, CSS, JS, Bootstrap, React, , MySQL , Tailwind  etc
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Muhammad Shahzeb/count.svg" />
