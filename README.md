@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahzeb</h1>
 <h3 align="center">A Passionate Web Developer From KPK, Pakistan 🇵🇰</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzeb-sw-engineer" alt="Muhammad Shahzeb" /></a> </p>
 
+<p align="left"> <a href="www.linkedin.com/in/muhammad-shahzeb-73b099335" target="blank"><img src="https://img.shields.io/twitter/follow/itsabuzarr?logo=twitter&style=for-the-badge" alt="Muhammad Shahzeb" /></a> </p>
 
+- 🌱 I’m currently learning **Full-stack Web Development**
+- 📝 I regularly write articles on Linkdin
+- - 💬 Ask me about ** SEO, HTML, CSS, JS, Bootstrap, React, , MySQL , Tailwind  etc**
+ - ### Blogs posts
 ## 🌐 Get in Touch.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shahzeb-73b099335/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%25-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+923179761545)
