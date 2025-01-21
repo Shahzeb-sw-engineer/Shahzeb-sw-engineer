@@ -6,12 +6,12 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 - 📝 I regularly write articles on Linkdin
-- 💬 Ask me about ** SEO, HTML, CSS, JS, Bootstrap, React, , MySQL , Tailwind  etc**
+- 💬 Ask me about ** SEO, HTML, CSS, JS, Bootstrap, React, , MySQL , Tailwind  etc
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Muhammad Shahzeb/count.svg" />
 </p>
-## 🌐 Get in Touch.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://wa.me/923179761545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Muhammad Shahzeb" height="30" width="40" /></a>
