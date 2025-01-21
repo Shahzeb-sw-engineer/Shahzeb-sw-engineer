@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer From KPK, Pakistan 🇵🇰</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahzeb-sw-engineer" alt="Muhammad Shahzeb" /></a> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/muhammad-shahzeb-73b099335" target="blank"><img src="https://img.shields.io/twitter/follow/itsabuzarr?logo=twitter&style=for-the-badge" alt="Muhammad Shahzeb" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/muhammad-shahzeb-73b099335" target="blank"><img src="https://img.shields.io/Linkdin/follow/MuhammmadShahzeb?logo=twitter&style=for-the-badge" alt="Muhammad Shahzeb" /></a> </p>
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 - 📝 I regularly write articles on Linkdin
