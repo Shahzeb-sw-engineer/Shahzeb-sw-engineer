@@ -6,12 +6,15 @@
 
 - 🌱 I’m currently learning **Full-stack Web Development**
 - 📝 I regularly write articles on Linkdin
-- - 💬 Ask me about ** SEO, HTML, CSS, JS, Bootstrap, React, , MySQL , Tailwind  etc**
+- 💬 Ask me about ** SEO, HTML, CSS, JS, Bootstrap, React, , MySQL , Tailwind  etc**
  - ### Blogs posts
 ## 🌐 Get in Touch.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shahzeb-73b099335/) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/+923179761545)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:shahzeb.signin@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itsabuzarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="itsabuzarr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mishwani7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishwani7" height="30" width="40" /></a>
+<a href="https://fb.com/abuzar.mishwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abuzar.mishwani" height="30" width="40" /></a>
+<a href="https://instagram.com/mishwani7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishwani7" height="30" width="40" /></a>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
