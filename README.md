@@ -11,12 +11,11 @@
 ## 🌐 Get in Touch.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsabuzarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="itsabuzarr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mishwani7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishwani7" height="30" width="40" /></a>
-<a href="https://fb.com/abuzar.mishwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abuzar.mishwani" height="30" width="40" /></a>
-<a href="https://instagram.com/mishwani7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishwani7" height="30" width="40" /></a>
+<a href="https://wa.me/923179761545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Muhammad Shahzeb" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/muhammad-shahzeb-73b099335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Shahzeb" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1GfnDkSYjA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhammad Shahzeb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muhammadshahzai6?igsh=b3ljcHJocWg2Yms3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muhammad Shahzeb" height="30" width="40" /></a>
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   Visitor count<br>
@@ -31,3 +30,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mishwani"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mishwani" /></a></p><br><br>
+
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
